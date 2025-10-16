@@ -1,4 +1,4 @@
-# 🐱‍👤 Wesley Bule
+#   Wesley Bule
 
 **`Desenvolvedor Backend`**
 
