@@ -39,7 +39,7 @@ Atualmente estou focado em Backend com Python, explorando frameworks como Flask 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+<img
  align="left" 
     alt="Django" 
     title="Django"
